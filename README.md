@@ -1,3 +1,4 @@
+# js_homework_7
 // Copy of array
 
 // let arr = [10,20,30];
